@@ -1,9 +1,9 @@
 {
- "background_color": "#FFFFFF",
  "name": "Modelo pousada",
- "start_url": "index.htm",
  "description": "Sejam Bem-vindos ao tour virtual 360º",
  "display": "fullscreen",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +41,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
