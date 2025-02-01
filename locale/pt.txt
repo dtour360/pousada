@@ -1,0 +1,124 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E1C75845_C3E3_30BD_41DF_A74282CD8987.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Casal-Família%20para%20o%20dia...
+LinkBehaviour_E139E816_C3E1_30DF_41DD_000EB5225166.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Duplo%201%20para%20o%20dia...
+LinkBehaviour_E1CE1222_C3E1_30F6_41D2_308B8B2B3D0B.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Duplo%202%20para%20o%20dia...
+LinkBehaviour_E1D0B889_C3E3_11B2_41A8_9EC5C6549FC0.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Duplo%203%20para%20o%20dia...
+LinkBehaviour_E169F7CD_C3E1_1F4D_41D2_E4C6C9E197AE.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Individual%20para%20o%20dia...
+LinkBehaviour_E15E827C_C3EF_1153_418C_78DFFB7E1F0C.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20Triplo%20para%20o%20dia...
+LinkBehaviour_E05189F2_C3E7_7356_41E2_C93CB4D0B210.source = https://wa.me/5561994645266?text=Olá!%20Gostaria%20de%20reservar%20o%20Quarto%20com%20Acessibilidade%20para%20o%20dia...
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E121C39F_C3A3_17CE_41E5_F9580C22AB65.toolTip = Quarto Duplo
+HotspotPanoramaOverlayArea_E130857E_C3AF_334F_41D8_17857CE5B718.toolTip = Quarto Triplo
+HotspotPanoramaOverlayArea_E1DF921C_C3A1_30D3_41BB_C8AA735DCC02.toolTip = Quarto individual
+
+## Media
+
+### Audio
+audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837.path = null
+audiores_EAE3F6D9_C2A1_1155_41E1_7E15FB0E7CE8.mp3Url = media/audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837_pt.mp3
+audiores_EAE3F6D9_C2A1_1155_41E1_7E15FB0E7CE8.oggUrl = media/audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837_pt.ogg
+
+### Title
+panorama_A9C5911C_B819_CC7B_41E6_B5AE54648487.label = Café da manhã
+panorama_A9C5ABD3_B819_D3CD_41E2_4E5466277197.label = Café da manhã
+panorama_A9C5A125_B819_4C55_41D8_2214733A4A60.label = Corredor
+panorama_A9C5A724_B819_F44B_41D8_901B1E8D74EC.label = Corredor
+panorama_A9C596D1_B819_35CD_41C3_989A0BEA1FDB.label = Corredor
+panorama_AA1A7F56_B819_74F4_41D1_B24C8D5E26E6.label = Entrada
+panorama_A9C4BBA5_B819_5C55_41D8_BA71DF8B4B48.label = Hall de entrada
+panorama_A9C57632_B819_344F_41E5_A523C04342CC.label = Jardim de inverno
+panorama_A9C69055_B81B_4CF5_4194_CF24089E19CC.label = Quarto Duplo 2
+panorama_A9C776A4_B81B_344B_41C4_B2B17E80DD9A.label = Quarto Duplo 3
+panorama_A9C6AC98_B81A_D47B_41C3_AFF1A57A9864.label = Quarto casal - família
+panorama_A9C55D33_B819_544D_41C6_43AE833B6A54.label = Quarto duplo 1
+panorama_A9C58B6B_B819_5CDD_41E6_E4301A726E8B.label = Quarto individual
+panorama_A9C58194_B819_CC74_41B0_92CB07CA23C0.label = Quarto para mobilidade reduzida
+panorama_A9C5461F_B819_7475_41CA_90F76111217E.label = Quarto triplo
+panorama_A9C6AB27_B81B_5C55_41DA_AD356B492039.label = Varanda
+panorama_A9C42C7E_B819_D4B7_41E0_F485DD49B81B.label = banheiro
+panorama_A9C5A797_B819_3474_41C2_E73FD38B73F4.label = banheiro
+panorama_A9C6C6D6_B81A_F5F4_41D1_C9EE404A352A.label = banheiro
+panorama_A9C52261_B819_4CCD_41AF_D40354A00F80.label = banheiro
+panorama_A9C72ABE_B81B_5DB7_41D4_4C2A8C9D4A16.label = banheiro
+panorama_A9C6B0B9_B81B_4DBD_41D9_680B96F61810.label = banheiro
+panorama_A9C68138_B81A_CCBC_41E2_A42C93EBF5CF.label = corredor
+panorama_A9C6FBA3_B81A_DC4D_41E0_897635DE677B.label = corredor
+panorama_A9C6A1EB_B81A_CFDD_41E1_D5255A57C88C.label = corredor
+panorama_A9C6A616_B81B_7474_41E4_0AC9CEFBA6D0.label = corredor
+
+## Skin
+
+### Button
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA.label = AMBIENTES
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA_mobile.label = AMBIENTES
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B_mobile.label = CAFÉ DA MANHA
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B.label = CAFÉ DA MANHA
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06_mobile.label = ENTRADA
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06.label = ENTRADA
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4_mobile.label = HALL DE ENTRADA
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4.label = HALL DE ENTRADA
+Button_ED557AA6_C161_71FF_41D8_03AABACDB867_mobile.label = INSTAGRAM
+Button_EBB3C1DC_C2EF_1352_41BE_29A43A2B75C2.label = Instagram
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.pressedLabel = JARDIM DE INVERNO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.label = JARDIM DE INVERNO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.pressedLabel = JARDIM DE INVERNO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.label = JARDIM DE INVERNO
+Button_D32301BB_C167_33D6_41C8_C97FD2458596_mobile.label = LOCALIZAÇÃO
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_EB308628_C2E1_70F3_41E2_CAFB377FF4FA.label = Localização
+Button_ED67BCB8_C161_71D3_41D2_E8C926791AB8_mobile.label = NOS AVALIE NO GOOGLE
+Button_EA5C0DA0_C2E3_13F2_41DA_76430CD88335.label = Nos avalie no Google
+Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7_mobile.label = QUARTO CASAL - FAMÍLIA
+Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7.label = QUARTO CASAL- FAMÍLIA
+Button_D14AD563_C2A3_F376_41B1_0243D8B0C219.label = QUARTO COM ACESSIBILIDADE
+Button_D14AD563_C2A3_F376_41B1_0243D8B0C219_mobile.label = QUARTO COM ACESSIBILIDADE
+Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84_mobile.label = QUARTO DUPLO 1
+Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84.label = QUARTO DUPLO 1
+Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3_mobile.label = QUARTO DUPLO 2
+Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3.label = QUARTO DUPLO 2
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592_mobile.label = QUARTO DUPLO 3
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592.label = QUARTO DUPLO 3
+Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D_mobile.label = QUARTO INDIVIDUAL
+Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D.label = QUARTO INDIVIDUAL
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D.label = QUARTO TRIPLO
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D_mobile.label = QUARTO TRIPLO
+Button_D32301BB_C167_33D6_41C8_C97FD2458596.label = RECOLHER
+Button_EC71AEC0_C161_11B2_41E3_72691AEAD7D8_mobile.label = RECOLHER
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07.label = RESERVAR AGORA
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07_mobile.label = RESERVAR AGORA
+Button_D23F0536_C163_10DE_41D4_A5133B0990BE_mobile.label = VARANDA
+Button_D23F0536_C163_10DE_41D4_A5133B0990BE.label = VARANDA
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_pt.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpg
+
+### Label
+Label_CE27C577_C1A3_335D_41E7_0C36152B7BD1_mobile.text = Pousada X
+Label_CE27C577_C1A3_335D_41E7_0C36152B7BD1.text = Pousada X
+Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E.text = {{title}}
+Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E_mobile.text = {{title}}
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao tour virtual 360º
+
+### Title
+tour.name = Modelo pousada
