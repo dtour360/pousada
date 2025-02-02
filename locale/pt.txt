@@ -60,44 +60,46 @@ panorama_A9C6A616_B81B_7474_41E4_0AC9CEFBA6D0.label = corredor
 ### Button
 Button_D32231BA_C167_33D7_41D9_96CD740A02EA.label = AMBIENTES
 Button_D32231BA_C167_33D7_41D9_96CD740A02EA_mobile.label = AMBIENTES
-Button_D32381BA_C167_33D7_41E8_2F613CCAC58B_mobile.label = CAFÉ DA MANHA
 Button_D32381BA_C167_33D7_41E8_2F613CCAC58B.label = CAFÉ DA MANHA
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B_mobile.label = CAFÉ DA MANHA
 Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06_mobile.label = ENTRADA
 Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06.label = ENTRADA
 Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4_mobile.label = HALL DE ENTRADA
 Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4.label = HALL DE ENTRADA
-Button_ED557AA6_C161_71FF_41D8_03AABACDB867_mobile.label = INSTAGRAM
+Button_D1FD1F0D_C412_3252_41B0_29D2F7D1CDCF_mobile.label = INSTAGRAM
 Button_EBB3C1DC_C2EF_1352_41BE_29A43A2B75C2.label = Instagram
-Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.pressedLabel = JARDIM DE INVERNO
 Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.label = JARDIM DE INVERNO
-Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.pressedLabel = JARDIM DE INVERNO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.pressedLabel = JARDIM DE INVERNO
 Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.label = JARDIM DE INVERNO
-Button_D32301BB_C167_33D6_41C8_C97FD2458596_mobile.label = LOCALIZAÇÃO
-Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.pressedLabel = JARDIM DE INVERNO
+Button_D124BCEE_C41E_37AE_41C9_7659F8CE1D6D_mobile.label = LOCALIZAÇÃO
 Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
 Button_EB308628_C2E1_70F3_41E2_CAFB377FF4FA.label = Localização
-Button_ED67BCB8_C161_71D3_41D2_E8C926791AB8_mobile.label = NOS AVALIE NO GOOGLE
+Button_D07930DA_C417_CFF6_41D5_C9E175B972BF_mobile.label = NOS AVALIE NO GOOGLE
 Button_EA5C0DA0_C2E3_13F2_41DA_76430CD88335.label = Nos avalie no Google
 Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7_mobile.label = QUARTO CASAL - FAMÍLIA
 Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7.label = QUARTO CASAL- FAMÍLIA
-Button_D14AD563_C2A3_F376_41B1_0243D8B0C219.label = QUARTO COM ACESSIBILIDADE
 Button_D14AD563_C2A3_F376_41B1_0243D8B0C219_mobile.label = QUARTO COM ACESSIBILIDADE
+Button_D14AD563_C2A3_F376_41B1_0243D8B0C219.label = QUARTO COM ACESSIBILIDADE
 Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84_mobile.label = QUARTO DUPLO 1
 Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84.label = QUARTO DUPLO 1
 Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3_mobile.label = QUARTO DUPLO 2
 Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3.label = QUARTO DUPLO 2
-Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592_mobile.label = QUARTO DUPLO 3
 Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592.label = QUARTO DUPLO 3
-Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D_mobile.label = QUARTO INDIVIDUAL
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592_mobile.label = QUARTO DUPLO 3
 Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D.label = QUARTO INDIVIDUAL
-Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D.label = QUARTO TRIPLO
+Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D_mobile.label = QUARTO INDIVIDUAL
 Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D_mobile.label = QUARTO TRIPLO
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D.label = QUARTO TRIPLO
 Button_D32301BB_C167_33D6_41C8_C97FD2458596.label = RECOLHER
-Button_EC71AEC0_C161_11B2_41E3_72691AEAD7D8_mobile.label = RECOLHER
 Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07.label = RESERVAR AGORA
 Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07_mobile.label = RESERVAR AGORA
-Button_D23F0536_C163_10DE_41D4_A5133B0990BE_mobile.label = VARANDA
 Button_D23F0536_C163_10DE_41D4_A5133B0990BE.label = VARANDA
+Button_D23F0536_C163_10DE_41D4_A5133B0990BE_mobile.label = VARANDA
+Button_D7FE816A_C41E_4ED6_41E7_51C3EA89392B_mobile.label = VARANDA
+Button_D1983413_C413_D676_41E3_DCBC933173DD_mobile.label = VARANDA
+Button_D042B9C9_C416_51D5_41D8_A28A245552B3_mobile.label = VARANDA
 
 ### Image
 Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.path = null
@@ -106,14 +108,15 @@ Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140
 Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpg
 
 ### Label
-Label_CE27C577_C1A3_335D_41E7_0C36152B7BD1_mobile.text = Pousada X
+Label_D74302EE_C416_53AF_41D3_8E7A95B7EB16_mobile.text = Pousada X
 Label_CE27C577_C1A3_335D_41E7_0C36152B7BD1.text = Pousada X
+Label_D732FA7E_C436_72AF_41E4_D0DF865EB340_mobile.text = Pousada X
 Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E.text = {{title}}
 Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E_mobile.text = {{title}}
 
 ### Multiline Text
-HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
